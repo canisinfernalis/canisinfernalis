@@ -4,8 +4,8 @@
 />
 
 <p align="center">
-  <a href="https://github.com/matheusmerigo"><img src="https://komarev.com/ghpvc/?username=matheusmerigo&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views" /></a>&nbsp;
-  <a href="https://github.com/matheusmerigo?tab=followers"><img src="https://img.shields.io/github/followers/matheusmerigo?style=for-the-badge&label=FOLLOWERS" alt="GitHub Followers" /></a>
+  <a href="https://github.com/canisinfernalis"><img src="https://komarev.com/ghpvc/?username=canisinfernalis&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views" /></a>&nbsp;
+  <a href="https://github.com/canisinfernalis?tab=followers"><img src="https://img.shields.io/github/followers/canisinfernalis?style=for-the-badge&label=FOLLOWERS" alt="GitHub Followers" /></a>
 </p>
 
 <table align="center">
@@ -23,7 +23,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=matheusmerigo&bg_color=0d1117&color=004E89&line=00f2ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=canisinfernalis&bg_color=0d1117&color=004E89&line=00f2ff&point=ffffff&area=true&hide_border=true"
     width="100%"
     alt="GitHub contribution graph"
   />
